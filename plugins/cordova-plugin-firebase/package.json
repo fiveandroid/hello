@@ -1,0 +1,58 @@
+{
+  "_from": "git+https://github.com/arnesson/cordova-plugin-firebase.git",
+  "_id": "cordova-plugin-firebase@0.1.24",
+  "_inBundle": false,
+  "_integrity": "sha1-z4WenLIf7eqJ9aflrC6LmXEGNO8=",
+  "_location": "/cordova-plugin-firebase",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/arnesson/cordova-plugin-firebase",
+    "rawSpec": "https://github.com/arnesson/cordova-plugin-firebase",
+    "saveSpec": "git+https://github.com/arnesson/cordova-plugin-firebase.git",
+    "fetchSpec": "https://github.com/arnesson/cordova-plugin-firebase.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/arnesson/cordova-plugin-firebase.git#3997fd30b9030bd47fd0c56d96bc077c117bd3b5",
+  "_spec": "https://github.com/arnesson/cordova-plugin-firebase",
+  "_where": "C:\\JVRA\\cordova\\hello",
+  "author": {
+    "name": "Robert Arnesson"
+  },
+  "bugs": {
+    "url": "https://github.com/arnesson/cordova-plugin-firebase/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-firebase",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin for Google Firebase",
+  "homepage": "https://github.com/arnesson/cordova-plugin-firebase#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "firebase",
+    "push",
+    "notifications",
+    "phone auth"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-firebase",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnesson/cordova-plugin-firebase.git"
+  },
+  "version": "0.1.24"
+}

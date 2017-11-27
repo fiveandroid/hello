@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    
+    <string name="google_app_id">1:80917608573:android:889a3ce3c80263ae</string>
+    <string name="google_api_key">AIzaSyAei0yApo1AAj6w0MqVwZa2YORGe3dIEJ8</string>
+</resources>
